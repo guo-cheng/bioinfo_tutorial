@@ -1,0 +1,12 @@
+# ignore everthing
+.
+# but not these files ...
+!*.pl
+!*.sh
+!*.R
+!*.py
+!*.README
+!*.ipynb
+# ...even if these files in the subdirctories
+!*/
+
